@@ -1,0 +1,44 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid rgb(0, 0, 0);
+}
+th {
+    border: 3px solid rgb(0, 0, 0); 
+    height: 60px;
+}
+tr {
+    border: 3px solid rgb(0, 0, 0);
+}
+td {
+    border: 3px solid rgb(0, 0, 0);
+    height: 60px;
+}
+ 
+img {
+    width: 100px;
+    height: 100px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: #bc00fb;
+}
+.beige {
+    background-color: beige;
+}
+.grey {
+    background-color: gray;
+}
+.green {
+    background-color: green;
+}
+.violet {
+    background-color: violet;
+}
